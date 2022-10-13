@@ -1,0 +1,1 @@
+# Python Maya Export Ass
